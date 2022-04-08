@@ -1,5 +1,5 @@
 # Citi-Bike-Analytics
-## Tableau Homework - Citi Bike Analytics
+## Tableau Project - Citi Bike Analytics
 [Citi Bike Analytics Workbook](https://public.tableau.com/app/profile/wesley.watkins/viz/CitiBikeAnalytics_16447258164960/CitiBikePresentation)
 
 ## Questions? 

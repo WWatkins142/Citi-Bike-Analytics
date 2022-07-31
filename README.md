@@ -1,6 +1,11 @@
 # Citi-Bike-Analytics
 ## Tableau Project - Citi Bike Analytics
 [Citi Bike Analytics Workbook](https://public.tableau.com/app/profile/wesley.watkins/viz/CitiBikeAnalytics_16447258164960/CitiBikePresentation)
+<br>
+
+<div class='tableauPlaceholder' id='viz1659310406213' style='position: relative'><noscript><a href='#'><img alt=' August Citi Bike Trends(2017-2020) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ci&#47;CitiBikeAnalytics_16447258164960&#47;CitiBikePresentation&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CitiBikeAnalytics_16447258164960&#47;CitiBikePresentation' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ci&#47;CitiBikeAnalytics_16447258164960&#47;CitiBikePresentation&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
+
+<br>
 
 ## Questions? 
 1. What are the three most popular Citi Bike locations in New York City in the month of August? 
